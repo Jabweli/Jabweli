@@ -21,8 +21,8 @@ Talking about Personal Stuff:
 
 
 ## 🛠️  Skills & Tools
-- 📊 Languages: JavaScript (ES6+), HTML/CSS, TypeScript
-- 🧰 Frontend: React, Angular, Vue.js, Bootstrap, Tailwindcss
+- 📊 Languages: JavaScript (ES6+), HTML/CSS, TypeScript, Python, PHP
+- 🧰 Frontend: CSS, React, Bootstrap, Tailwindcss
 - 🗄️ Backend: Node.js, Express.js, MongoDB, Django, Laravel, Firebase, MySQL
 - 👨‍💻 Mobile: React Native, Flutter
 - 💻 Tools & Platforms: Git, GitHub, VS Code, Firebase, Heroku
