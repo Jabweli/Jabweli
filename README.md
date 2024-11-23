@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Stanley Omali
 
-I'm a passionate software developer with expertise in web and mobile app development. I enjoy creating robust and user-friendly applications that solve real-world problems.
+I'm a fullstack software developer with expertise in web and mobile app development. I enjoy creating robust and user-friendly applications that solve real-world problems.
 
 
 As a software developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
