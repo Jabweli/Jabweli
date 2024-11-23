@@ -11,7 +11,7 @@ That's why I like to make things that make a difference.
 
 Talking about Personal Stuff:
 - 👨‍🎓 I'm currently a Computer Science Student but have a degree in Telecommunications engineering
-- 🌱 I'm currently learning: Data Structures and Algorithms on LeetCode
+- 🌱 I'm currently learning: Python & Django
 - 👨‍🏫 Next.js for server-side rendering in React applications
 - 👨‍🏫 Docker for containerization of applications
   
